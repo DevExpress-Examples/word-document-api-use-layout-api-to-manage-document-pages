@@ -19,7 +19,7 @@ This example demonstrates how to use the Layout API to execute the following act
 
 [Program.cs](./CS/WordProcessorLayoutAPISample/Program.cs) (VB: [Program.vb](./VB/LayoutAPISample/Program.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-use-layout-api-to-manage-document-pages&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-use-layout-api-to-manage-document-pages&~~~was_helpful=no)
 
