@@ -2,10 +2,10 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <RootNamespace>LayoutAPISample</RootNamespace>
-        <TargetFramework>net8.0</TargetFramework>
+        <TargetFramework>net10.0</TargetFramework>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="DevExpress.Document.Processor" Version="24.2.*" />
+        <PackageReference Include="DevExpress.Document.Processor" Version="26.1.*" />
     </ItemGroup>
     <ItemGroup>
         <None Update="FirstLook.docx">
